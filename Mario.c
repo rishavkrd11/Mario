@@ -4,7 +4,7 @@
 #include<time.h>
 #include<process.h>
 #include<stdlib.h>
-//mukularoradce@gmail.com
+
 void gotoxy(int x,int y);
 void delay(unsigned int mseconds);
 void Right();
